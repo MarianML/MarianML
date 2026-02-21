@@ -11,7 +11,7 @@
      Recomendación: déjalo simple y manda a cada README. -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=%20Marian%20&fontSize=52&animation=fadeIn&textBg=true&stroke=00FFFF&strokeWidth=2&theme=radical" width="1200" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=44&pause=1200&color=00FFFF&center=true&vCenter=true&width=1200&height=180&lines=Marian" />
 </p>
 <div align="center">
   <h3>💻 Full Stack Developer | 🔮 IA | 🛡️ Ciberseguridad | 🛠️ AutoCAD 3D | 🎨 Photoshop</h3>
