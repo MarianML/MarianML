@@ -20,9 +20,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e126ad27-c806-47d2-b241-b8926a453326" width="600" alt="Banner">
+  <img src="https://github.com/user-attachments/assets/e126ad27-c806-47d2-b241-b8926a453326" width="800" alt="Banner">
 </div>
-![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e126ad27-c806-47d2-b241-b8926a453326)
 
 ---
 
