@@ -1,7 +1,12 @@
 <p align="center">
-  <a href="./README.es.md">🇪🇸 Español</a> | <a href="./README.en.md">🇬🇧 English</a>
+  <a href="./README.es.md">
+    <img src="https://flagcdn.com/es.svg" width="22" alt="ES" /> Español
+  </a>
+  &nbsp; | &nbsp;
+  <a href="./README.en.md">
+    <img src="https://flagcdn.com/gb.svg" width="22" alt="EN" /> English
+  </a>
 </p>
-
 <!-- Puedes dejar aquí una mini intro en ambos idiomas o solo el selector.
      Recomendación: déjalo simple y manda a cada README. -->
 
