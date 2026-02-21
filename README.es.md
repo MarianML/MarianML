@@ -20,8 +20,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/MarianDark/MarianDark/blob/main/asset/YouCut_20250630_230444040(1).gif" alt="Banner">
+  <video src="(https://github.com/user-attachments/assets/f1dff74b-2665-43b2-8333-ab6a6363395f)" width="900" controls></video>
 </div>
+
 
 ---
 
