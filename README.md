@@ -19,5 +19,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Gracias%20por%20visitar%20/%20Thanks%20for%20visiting!%20&fontSize=28&fontColor=ffffff" width="1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Gracias%20por%20visitar!%20/%20Thanks%20for%20visiting!%20&fontSize=28&fontColor=ffffff" width="1000" />
 </p>
