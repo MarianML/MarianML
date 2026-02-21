@@ -20,9 +20,8 @@
 </div>
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/f1dff74b-2665-43b2-8333-ab6a6363395f" width="900" controls></video>
+  <img src="https://github.com/user-attachments/assets/2142b907-87a7-4ad5-a9db-c5b06d6c1930" width="900" controls></img>
 </div>
-
 
 ---
 
