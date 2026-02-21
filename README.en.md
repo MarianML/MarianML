@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/MarianDark/MarianDark/blob/main/asset/YouCut_20250630_230444040(1).gif" alt="Banner">
+  <img src="https://github.com/user-attachments/assets/0abeb7f4-1f47-4603-89a1-25359cdf1882" alt="Banner">
 </div>
 
 ---
