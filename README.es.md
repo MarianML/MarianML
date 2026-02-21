@@ -212,7 +212,7 @@ Soy una desarrolladora apasionada con experiencia en:
 ---
 
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0f7c9590063793.5e0c23465edc8.gif" width="400" />
+  <img src="https://github.com/user-attachments/assets/95d653c5-466f-4890-9a5e-9b895beb45f2" width="400" />
 </div>
 
 ---
