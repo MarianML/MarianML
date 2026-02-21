@@ -4,7 +4,7 @@
   </a>
   &nbsp; | &nbsp;
   <a href="./README.en.md">
-    <img src="https://flagcdn.com/gb.svg" width="22" alt="EN" /> English
+    <img src="https://flagcdn.com/us.svg" width="22" alt="US" /> English (US)
   </a>
 </p>
 <!-- Puedes dejar aquí una mini intro en ambos idiomas o solo el selector.
