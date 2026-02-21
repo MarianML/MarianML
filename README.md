@@ -10,9 +10,7 @@
 <!-- Puedes dejar aquí una mini intro en ambos idiomas o solo el selector.
      Recomendación: déjalo simple y manda a cada README. -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=320&section=header&text=%20Marian%20&fontSize=60&fontColor=ffffff&animation=fadeIn&textBg=true&fontAlignY=20&stroke=000000&strokeWidth=5" width="600" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=¡Hola!%20Soy%20Marian&fontSize=40&fontColor=ffffff" width="1200" />
 <div align="center">
   <h3>💻 Full Stack Developer | 🔮 IA | 🛡️ Ciberseguridad | 🛠️ AutoCAD 3D | 🎨 Photoshop</h3>
   <p>
