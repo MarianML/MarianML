@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0abeb7f4-1f47-4603-89a1-25359cdf1882" alt="Banner">
+  <img src="https://github.com/user-attachments/assets/0abeb7f4-1f47-4603-89a1-25359cdf1882" width="600" alt="Banner">
 </div>
 
 ---
@@ -168,7 +168,7 @@ I’m a passionate developer with experience in:
 ---
 
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0f7c9590063793.5e0c23465edc8.gif" width="400" />
+  <img src="https://github.com/user-attachments/assets/95d653c5-466f-4890-9a5e-9b895beb45f2" width="600" />
 </div>
 
 ---
