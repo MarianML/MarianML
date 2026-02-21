@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/0a62a5ac-326c-4a6c-ad35-2fef1a425a4e" width="900" controls muted loop playsinline></video>
+  <img src="https://github.com/user-attachments/assets/0abeb7f4-1f47-4603-89a1-25359cdf1882" alt="Banner">
 </div>
 
 ---
