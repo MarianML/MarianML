@@ -6,7 +6,7 @@
      Recomendación: déjalo simple y manda a cada README. -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=¡Hola!%20Soy%20Marian&fontSize=40&fontColor=ffffff" width="1200" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=%20Marian&fontSize=40&fontColor=ffffff" width="1200" />
 </p>
 
 <div align="center">
