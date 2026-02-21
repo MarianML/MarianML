@@ -1,7 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=¡Hola!%20Soy%20Marian&fontSize=40&fontColor=ffffff" width="1200" />
 
 <p align="center">
-  <a href="./README.es.md">🇪🇸 Español</a> | <a href="./README.en.md">🇬🇧 English</a>
+  <a href="./README.es.md">
+    <img src="https://flagcdn.com/es.svg" width="22" alt="ES" /> Español
+  </a>
+  &nbsp; | &nbsp;
+  <a href="./README.en.md">
+    <img src="https://flagcdn.com/us.svg" width="22" alt="US" /> English (US)
+  </a>
 </p>
 
 <div align="center">
