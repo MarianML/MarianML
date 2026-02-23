@@ -115,19 +115,8 @@ Soy una desarrolladora apasionada con experiencia en:
 
 ---
 
-<div align="center">
-  <h2>📈 Estadísticas</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=MarianDark&show_icons=true&theme=radical&cache_seconds=86400&v=1" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianDark&layout=compact&theme=radical&cache_seconds=86400&v=1" />
-</div>
-
----
-
-## 🏆 Trofeos de GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarianDark&theme=radical&no-frame=true&no-bg=true&margin-w=10&v=1" />
-</p>
+## 📈 Estadísticas
+![Metrics](./github-metrics.svg)
 
 ---
 
