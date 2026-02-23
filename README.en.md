@@ -84,19 +84,8 @@ I’m a passionate developer with experience in:
 
 ---
 
-<div align="center">
-  <h2>📈 Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=MarianDark&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianDark&layout=compact&theme=radical" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarianDark&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
+## 📈 Estadísticas
+![Metrics](./github-metrics.svg)
 
 ---
 
